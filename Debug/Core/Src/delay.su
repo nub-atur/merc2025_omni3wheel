@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+../Core/Src/delay.c:30:6:systick_init_ms	16	static,ignoring_inline_asm
+../Core/Src/delay.c:40:10:millis	4	static,ignoring_inline_asm
+../Core/Src/delay.c:49:6:reset_tick	4	static
+../Core/Src/delay.c:54:6:delay	40	static

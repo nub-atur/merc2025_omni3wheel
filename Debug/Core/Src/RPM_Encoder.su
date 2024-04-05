@@ -1,0 +1,3 @@
+../Core/Src/RPM_Encoder.c:9:8:get_rpm	32	static
+../Core/Src/RPM_Encoder.c:54:6:CountLoop	16	static
+../Core/Src/RPM_Encoder.c:67:6:ResetLoop	16	static
